@@ -1,0 +1,16 @@
+
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‘ ÃÆþÿÿÿÿ
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¥þ››ÿÿÿÿÿ
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‚Ô¸¡üÿÿÿÿ
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ýÓ‘àúÿÿÿÿ
+h	java:S116"NRename this field "DNI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èüöšýÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‘ ÃÆþÿÿÿÿ
+7
+java:S1116"Remove this empty statement.(½øêÓøÿÿÿÿ
+c	java:S100Q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Ùºð
+h	java:S100c"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ûá±øÿÿÿÿ
+S
+java:S1117r"8Rename "sexo" which hides the field declared at line 13.(½ÞÀªúÿÿÿÿ
+H
+java:S1144'"2Remove this unused private "comprobarSexo" method.(²±ñº

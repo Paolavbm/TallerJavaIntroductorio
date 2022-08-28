@@ -1,0 +1,8 @@
+
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(âÕôş8¸ÕÕ¾¡0
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(âÕôş
+W
+java:S1161":Add the "@Override" annotation above this method signature(ó‘ä¸8àÔ¾¡0
+W
+java:S1128":Remove this unused import 'java.awt.image.ColorConvertOp'.(“‹€ü8á‚×¾¡0
